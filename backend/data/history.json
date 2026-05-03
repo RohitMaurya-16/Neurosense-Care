@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "patient_id": 1,
+    "date": "2026-03-10",
+    "title": "Routine Checkup",
+    "detail": "Vitals and blood pressure recorded."
+  },
+  {
+    "id": 2,
+    "patient_id": 1,
+    "date": "2026-03-25",
+    "title": "Cardiac Review",
+    "detail": "ECG and lipid profile discussion."
+  },
+  {
+    "id": 3,
+    "patient_id": 2,
+    "date": "2026-03-18",
+    "title": "Diabetes Follow-up",
+    "detail": "Fasting glucose improved from baseline."
+  }
+]

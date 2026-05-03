@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Rajesh Sharma",
+    "age": 45,
+    "qualification": "MBBS, MD",
+    "specialization": "Cardiologist",
+    "experience": "12 years",
+    "rating": 4.7,
+    "profile_image": "https://i.pravatar.cc/150?img=12",
+    "email": "doctor1@gmail.com",
+    "password": "doctor1"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Priya Mehta",
+    "age": 39,
+    "qualification": "MBBS, MD",
+    "specialization": "Diabetologist",
+    "experience": "9 years",
+    "rating": 4.5,
+    "profile_image": "https://i.pravatar.cc/150?img=47",
+    "email": "doctor2@gmail.com",
+    "password": "doctor2"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Ankit Verma",
+    "age": 41,
+    "qualification": "MBBS, DM",
+    "specialization": "Hepatologist",
+    "experience": "10 years",
+    "rating": 4.6,
+    "profile_image": "https://i.pravatar.cc/150?img=53",
+    "email": "doctor3@gmail.com",
+    "password": "doctor3"
+  }
+]

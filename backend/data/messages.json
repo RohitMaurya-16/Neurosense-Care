@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "patient_id": 1,
+    "doctor_id": 1,
+    "sender_role": "patient",
+    "sender_name": "Rahul Singh",
+    "message": "I feel occasional chest discomfort.",
+    "timestamp": "2026-04-09T09:30:00"
+  },
+  {
+    "id": 2,
+    "patient_id": 1,
+    "doctor_id": 1,
+    "sender_role": "doctor",
+    "sender_name": "Dr. Rajesh Sharma",
+    "message": "Please keep hydrated and avoid heavy exertion today.",
+    "timestamp": "2026-04-09T09:36:00"
+  },
+  {
+    "patient_id": 1,
+    "doctor_id": 1,
+    "sender_role": "patient",
+    "sender_name": "Rahul Singh",
+    "message": "Scoped QA message",
+    "timestamp": "2026-04-10T10:00:00",
+    "id": 3
+  },
+  {
+    "patient_id": 1,
+    "doctor_id": 1,
+    "sender_role": "doctor",
+    "sender_name": "Dr. Rajesh Sharma",
+    "message": "QA scoped message",
+    "timestamp": "2026-04-10T11:10:00",
+    "id": 4
+  },
+  {
+    "doctor_id": 1,
+    "patient_id": 1,
+    "sender_role": "patient",
+    "sender_name": "Rahul Singh",
+    "message": "hello my name is rohit",
+    "timestamp": "2026-05-03T13:31:15.837Z",
+    "id": 5
+  }
+]

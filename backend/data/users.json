@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Singh",
+    "email": "patient1@gmail.com",
+    "password": "patient1",
+    "age": 31,
+    "gender": "Male",
+    "height": 172,
+    "weight": 74,
+    "profile_photo": "https://i.pravatar.cc/150?img=68",
+    "medical": {
+      "diabetes": {
+        "bmi": 40,
+        "glucose": 300,
+        "insulin": 120
+      },
+      "heart": {
+        "blood_pressure": 128,
+        "cholesterol": 210
+      },
+      "liver": {
+        "bilirubin": 1.1,
+        "enzyme_levels": 42
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Neha Gupta",
+    "email": "patient2@gmail.com",
+    "password": "patient2",
+    "age": 28,
+    "gender": "Female",
+    "height": 160,
+    "weight": 61,
+    "profile_photo": "https://i.pravatar.cc/150?img=33",
+    "medical": {
+      "diabetes": {
+        "glucose": 118,
+        "bmi": 24.5,
+        "insulin": 78
+      },
+      "heart": {
+        "blood_pressure": 116,
+        "cholesterol": 182
+      },
+      "liver": {
+        "bilirubin": 0.9,
+        "enzyme_levels": 35
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Amit Patel",
+    "email": "patient3@gmail.com",
+    "password": "patient3",
+    "age": 36,
+    "gender": "Male",
+    "height": 176,
+    "weight": 82,
+    "profile_photo": "https://i.pravatar.cc/150?img=22",
+    "medical": {
+      "diabetes": {
+        "glucose": 139,
+        "bmi": 29.8,
+        "insulin": 96
+      },
+      "heart": {
+        "blood_pressure": 136,
+        "cholesterol": 245
+      },
+      "liver": {
+        "bilirubin": 1.7,
+        "enzyme_levels": 58
+      }
+    }
+  }
+]

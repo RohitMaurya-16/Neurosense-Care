@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "patient_id": 1,
+    "doctor_id": 1,
+    "date": "2026-04-21",
+    "time": "11:00",
+    "status": "Completed",
+    "meeting_link": "https://meet.neurosense.local/a1"
+  },
+  {
+    "id": 2,
+    "patient_id": 2,
+    "doctor_id": 2,
+    "date": "2026-04-22",
+    "time": "14:30",
+    "status": "Confirmed",
+    "meeting_link": "https://meet.neurosense.local/a2"
+  },
+  {
+    "id": 3,
+    "patient_id": 3,
+    "doctor_id": 3,
+    "date": "2026-04-18",
+    "time": "10:15",
+    "status": "Completed",
+    "meeting_link": "https://meet.neurosense.local/a3"
+  }
+]
