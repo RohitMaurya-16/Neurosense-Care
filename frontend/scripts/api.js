@@ -1,6 +1,6 @@
 const API_BASE = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
   ? "http://localhost:5000"
-  : "https://neurosense-care-backend.onrender.com"; // Placeholder URL for production
+  : "https://neurosense-care-api.onrender.com";
 
 
 async function request(path, options = {}) {
